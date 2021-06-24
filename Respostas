@@ -1,4 +1,4 @@
-//Questão1
+//1ªQuestão)
 /*
 var text = 'Italo'
 function nome(text){
@@ -7,7 +7,7 @@ function nome(text){
 nome(text)
 */
 
-//Questão2
+//2ªQuestão)
 /*
 function operacoes(val1,val2,callback)
 {
@@ -28,7 +28,7 @@ operacoes(4,5, function(var1,var2){
 })
 */
 
-//Questão3
+//3ªQuestão)
 /*
 function um(x, callback) {
 	return function dois(y) {
@@ -47,7 +47,7 @@ var v1 = um(90, function(x, y) {
 v1(3)
 */
 
-//Questão4
+//4ªQuestão)
 /*function numMeses(num) {
   if (num == 1) {
     console.log("janeiro")
@@ -88,7 +88,7 @@ v1(3)
 }
 numMeses(7)*/
 
-//Questão5
+//5ªQuestão)
 /*
 function numeros(num1,num2, callback)
 { 
